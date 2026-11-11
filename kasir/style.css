@@ -1,0 +1,53 @@
+body {
+  background-color: bisque;
+}
+
+h1,h2,h3,li,ul {
+  color: rgb(82, 38, 38);
+  text-align: center;
+}
+
+h1 {
+  background-color: white;
+  border-radius: 30px;
+  list-style-type: none;
+  font-family: bold;
+  font-size: 20px;
+  margin : 10;
+  padding : 5;
+}
+
+h2 {
+    background-color:black;
+  border-radius: 30px;
+  list-style-type: none;
+  font-family: bold;
+  font-size: 20px;
+  margin : 10;
+  padding : 5;
+}
+
+li {
+    background-color: white;
+  border-radius: 30px;
+  list-style-type: none;
+  font-family: bold;
+  font-size: 20px;
+  margin : 10;
+  padding : 5;
+}
+ul {
+    background-color: black;
+  border-radius: 30px;
+  list-style-type: none;
+  font-family: bold;
+  font-size: 20px;
+  margin : 10;
+  padding : 5;
+}
+table{
+    color: black;
+    text-align: center;
+    margin: auto;
+}
+
